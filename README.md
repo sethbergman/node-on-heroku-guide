@@ -301,7 +301,7 @@ INSERT 0 1
 ```
 Now when you access your app’s `/db` route, you will see something like this:
 
-                               #### Database Results
+                                    Database Results
                                   * 1 - hello database
   
 Read more about [Heroku PostgreSQL](https://devcenter.heroku.com/articles/heroku-postgresql).
