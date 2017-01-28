@@ -1,4 +1,6 @@
 ## Node.js on Heroku Guide
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/sethbergman/node-on-heroku-guide.svg)](https://greenkeeper.io/)
 [Heroku Dev Center](https://devcenter.heroku.com/articles/getting-started-with-nodejs)
 
 A barebones Node.js app using [Express 4](http://expressjs.com/).
